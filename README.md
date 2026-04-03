@@ -2,7 +2,7 @@
 
 An intelligent, browser-based note-taking application with simulated AI assistance for summarization, grammar enhancement, and content insights. Your notes stay private in your browser's local storage.
 
-![AI Notepad Platform Screenshot](https://via.placeholder.com/800x450?text=AI+Notepad+Platform+Demo)
+<img width="1880" height="979" alt="image" src="https://github.com/user-attachments/assets/fc9170fa-3b1a-4f4d-93d3-64e6386a12fd" />
 
 ##  Features
 
@@ -13,10 +13,6 @@ An intelligent, browser-based note-taking application with simulated AI assistan
 - **Responsive Design** – Works seamlessly on desktop, tablet, and mobile devices
 - **Real-time Updates** – Instant UI updates as you switch between notes
 - **Smart Preview** – See note previews and titles in the sidebar
-
-##  Live Demo
-
-[Click here to try the live demo](#) *(Replace with your GitHub Pages or hosting URL)*
 
 ##  Technologies Used
 
