@@ -168,6 +168,14 @@ furnished to do so, subject to the following conditions...
 
 ##  Contact
 
-**Author:** [Your Name]  
-**GitHub:** [@yourusername](https://github.com/yourusername)  
-**Project Link:** [https://github.com/yourusername/ai-notepad-platform](https://github.com/yourusername/ai-notepad-platform)
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
